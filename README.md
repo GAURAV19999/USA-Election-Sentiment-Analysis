@@ -1,1 +1,2 @@
 # USA-Election-Sentiment-Analysis
+The US Presidential Elections are scheduled to be held on the 3rd of November and with less than a week left, this was a good time to understand the public mood and opinion in different US states towards the candidates-Republican current president Donald Trump and Democratic challenger Joe Biden.For this analysis, I have collected tweets made over the last week using Twitter’s publicly available API and performed sentiment analysis of those tweets using VADER Sentiment Analysis.
